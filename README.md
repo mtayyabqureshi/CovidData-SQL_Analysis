@@ -13,8 +13,7 @@ Microsoft SQL Server
 The project is organized into the following files and folders:
 
 README.md: This file provides an overview of the project and its contents.
-covid-data-analysis.sql: This SQL file contains the queries used to analyze the COVID-19 dataset.
-data/: This folder contains the COVID-19 dataset used in the analysis.
+CovidDataAnalysis.sql: This SQL file contains the queries used to analyze the COVID-19 dataset.
 
 # Results
 The data analysis revealed several insights, including:
